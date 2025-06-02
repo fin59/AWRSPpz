@@ -1,5 +1,7 @@
-package org.example.awrsppz.Anime;
+package org.example.awrsppz.Anime.Service;
 
+import org.example.awrsppz.Anime.Repository.UsersRepository;
+import org.example.awrsppz.Anime.Users;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

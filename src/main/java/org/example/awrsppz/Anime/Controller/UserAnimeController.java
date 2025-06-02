@@ -1,5 +1,7 @@
-package org.example.awrsppz.Anime;
+package org.example.awrsppz.Anime.Controller;
 
+import org.example.awrsppz.Anime.UserAnime;
+import org.example.awrsppz.Anime.Service.UserAnimeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
