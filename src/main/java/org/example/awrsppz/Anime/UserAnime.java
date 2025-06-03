@@ -21,6 +21,6 @@ public class UserAnime {
     private Anime anime;
 
     private String status;
-    private Integer progress;
-    private Integer rating;
+    private int progress;
+    private int rating;
 }
